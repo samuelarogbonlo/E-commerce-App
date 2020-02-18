@@ -1,2 +1,2 @@
 # E-commerce-App
-The app will be designed to order food and print a bar code with printing machine
+Application designed to place food order, print digital receipt and complete payments via preferred gateway
